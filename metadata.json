@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Peminjaman Barang BPTI UHAMKA",
+  "description": "Aplikasi Sistem Peminjaman dan Manajemen Peralatan Teknologi Informasi BPTI Universitas Muhammadiyah Prof. DR. HAMKA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
